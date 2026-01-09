@@ -1,0 +1,1201 @@
+sale_id,product,unit_price,quantity,region,sales_person,date,total_price
+103,Headphones,1200.0,2,Kisumu,Brian,2025-01-01,2400.0
+436,Headphones,150.0,,,Kelvin,,
+271,Camera,,3,Nairobi,Mary,2025-01-05,
+107,Phone,,4,,Kelvin,,
+72,Tablet,100.0,4,Kisumu,James,,400.0
+701,,2000.0,1,,Kelvin,,2000.0
+21,Tablet,1200.0,3,Nakuru,Susan,2025-01-01,3600.0
+615,Tablet,500.0,2,,James,,1000.0
+122,Headphones,500.0,4,,Brian,2025-01-01,2000.0
+467,Headphones,,4,,Susan,,
+215,Phone,50.0,1,,Mary,2025-01-01,50.0
+331,Tablet,1200.0,5,Nairobi,Mary,2025-01-05,6000.0
+459,Tablet,150.0,2,Kisumu,Mary,,300.0
+88,Camera,50.0,,Mombasa,Susan,2025-01-01,
+373,Headphones,50.0,3,Mombasa,Susan,Not Available,150.0
+100,Tablet,1200.0,4,Kisumu,Susan,2025-01-01,4800.0
+664,,2000.0,4,Mombasa,James,,8000.0
+131,Phone,,,,,,
+662,,,2,Nairobi,James,,
+309,,,5,Nairobi,Mary,,
+770,,,4,Kisumu,,2025-01-05,
+344,,500.0,2,Mombasa,Kelvin,2025-01-05,1000.0
+492,Phone,,,,Mary,,
+414,,500.0,1,Nairobi,Brian,,500.0
+386,Tablet,500.0,5,Nairobi,James,,2500.0
+192,Headphones,2000.0,3,Nakuru,Susan,2025-01-05,6000.0
+277,Phone,,4,Nakuru,James,,
+161,Camera,100.0,2,Nairobi,Susan,2025-01-05,200.0
+460,,150.0,1,Kisumu,,,150.0
+314,Phone,50.0,3,,Brian,2025-01-01,150.0
+22,Laptop,500.0,2,,,Not Available,1000.0
+253,Laptop,1200.0,2,,Brian,2025-01-01,2400.0
+748,,1200.0,3,Nairobi,James,,3600.0
+561,Headphones,150.0,1,Nairobi,Susan,Not Available,150.0
+475,Tablet,1200.0,,Nairobi,,Not Available,
+59,Headphones,100.0,1,Kisumu,Brian,,100.0
+511,Headphones,1200.0,5,Nakuru,Mary,,6000.0
+682,Headphones,50.0,4,Nairobi,Mary,2025-01-05,200.0
+476,Headphones,50.0,3,Nairobi,,,150.0
+700,Camera,500.0,,Mombasa,Susan,,
+783,Camera,,3,Kisumu,,,
+190,,2000.0,3,,James,,6000.0
+687,Phone,100.0,1,Nairobi,Brian,,100.0
+563,Laptop,500.0,4,Mombasa,James,2025-01-05,2000.0
+567,Headphones,100.0,5,,Mary,,500.0
+244,,,2,,Brian,2025-01-01,
+505,Phone,1200.0,2,Nairobi,,,2400.0
+131,Laptop,1200.0,3,Nairobi,James,2025-01-05,3600.0
+485,,2000.0,4,Mombasa,Kelvin,,8000.0
+647,Tablet,,,Kisumu,Susan,,
+21,Camera,500.0,1,Nairobi,Susan,,500.0
+167,,2000.0,4,,Kelvin,2025-01-05,8000.0
+274,Laptop,,4,Nairobi,Mary,Not Available,
+388,,150.0,1,,Brian,,150.0
+601,Tablet,50.0,3,,Susan,2025-01-01,150.0
+316,,2000.0,4,,Kelvin,2025-01-05,8000.0
+14,Laptop,2000.0,2,Nakuru,,,4000.0
+242,,500.0,1,Nakuru,Kelvin,,500.0
+777,Camera,100.0,,,Mary,2025-01-01,
+346,Camera,150.0,5,Kisumu,Mary,,750.0
+565,Phone,500.0,3,Nairobi,James,2025-01-05,1500.0
+340,,,1,Nairobi,Susan,2025-01-01,
+92,Headphones,,5,Nakuru,James,,
+367,,,5,,Kelvin,2025-01-05,
+455,,,,Nairobi,Brian,,
+428,Laptop,100.0,4,Nairobi,Brian,2025-01-05,400.0
+509,Laptop,150.0,,Kisumu,Mary,Not Available,
+776,,1200.0,4,Mombasa,Brian,2025-01-05,4800.0
+35,,50.0,4,Nakuru,Brian,Not Available,200.0
+206,,100.0,1,Nakuru,Brian,2025-01-05,100.0
+81,Tablet,100.0,1,Mombasa,Kelvin,Not Available,100.0
+562,,1200.0,3,Nairobi,Brian,,3600.0
+388,Camera,1200.0,4,Kisumu,,,4800.0
+2,,50.0,5,Kisumu,Brian,Not Available,250.0
+390,Laptop,50.0,2,Nakuru,Brian,Not Available,100.0
+566,Camera,1200.0,3,Kisumu,James,,3600.0
+106,Laptop,,1,,Kelvin,Not Available,
+772,Phone,100.0,,Mombasa,Mary,2025-01-01,
+477,Headphones,500.0,3,Nairobi,James,,1500.0
+703,Laptop,50.0,3,,Susan,2025-01-01,150.0
+402,Camera,50.0,3,Mombasa,Kelvin,,150.0
+730,Phone,1200.0,3,,,Not Available,3600.0
+556,Laptop,150.0,2,Nakuru,Kelvin,2025-01-01,300.0
+162,Tablet,500.0,,Kisumu,Susan,Not Available,
+202,,500.0,,,Susan,,
+270,Headphones,50.0,,Kisumu,Susan,Not Available,
+271,Laptop,,4,,Mary,2025-01-01,
+456,Phone,150.0,5,Nairobi,Brian,2025-01-01,750.0
+462,Tablet,500.0,,Nairobi,Kelvin,Not Available,
+727,,50.0,3,Nairobi,Brian,2025-01-05,150.0
+252,Phone,500.0,3,Kisumu,Brian,,1500.0
+702,,2000.0,,,,,
+296,Phone,150.0,,Nairobi,Susan,Not Available,
+725,Tablet,150.0,3,,Mary,2025-01-05,450.0
+720,Phone,2000.0,4,Kisumu,,2025-01-01,8000.0
+749,Tablet,100.0,1,,James,,100.0
+338,Laptop,2000.0,1,,Mary,,2000.0
+53,Tablet,1200.0,,,Brian,Not Available,
+792,Tablet,1200.0,2,Kisumu,Mary,2025-01-05,2400.0
+217,Headphones,50.0,,Kisumu,Susan,2025-01-05,
+764,Tablet,150.0,,Nakuru,James,,
+188,Tablet,100.0,1,Kisumu,Susan,2025-01-01,100.0
+380,,100.0,3,Kisumu,James,2025-01-05,300.0
+493,Laptop,500.0,,Mombasa,,,
+41,,500.0,3,Nairobi,Brian,2025-01-01,1500.0
+157,Headphones,2000.0,3,Nakuru,James,2025-01-01,6000.0
+15,,100.0,2,Nakuru,James,Not Available,200.0
+65,Camera,2000.0,3,Nakuru,James,2025-01-05,6000.0
+521,Laptop,2000.0,1,Mombasa,Mary,Not Available,2000.0
+344,Laptop,500.0,4,,,2025-01-05,2000.0
+129,Camera,150.0,4,Kisumu,Mary,,600.0
+648,,2000.0,5,Nairobi,Brian,Not Available,10000.0
+472,Tablet,,,,James,Not Available,
+63,,150.0,1,,,,150.0
+139,Phone,100.0,3,Kisumu,,Not Available,300.0
+499,Headphones,100.0,4,Mombasa,Kelvin,2025-01-05,400.0
+593,Phone,2000.0,1,Kisumu,Brian,,2000.0
+392,Camera,150.0,4,Kisumu,,Not Available,600.0
+675,Laptop,500.0,3,Mombasa,James,Not Available,1500.0
+419,,500.0,4,Nakuru,James,,2000.0
+289,Laptop,1200.0,,Nakuru,,Not Available,
+379,Headphones,100.0,,Nairobi,Mary,2025-01-01,
+773,Laptop,50.0,5,Nairobi,Brian,,250.0
+490,Laptop,1200.0,5,Nakuru,James,2025-01-01,6000.0
+231,Headphones,500.0,4,,,,2000.0
+41,,150.0,1,,James,,150.0
+28,,500.0,,Kisumu,,Not Available,
+135,Headphones,150.0,1,,Brian,Not Available,150.0
+201,,1200.0,1,Kisumu,,Not Available,1200.0
+780,Camera,100.0,4,Nakuru,Kelvin,,400.0
+33,Laptop,500.0,1,Nairobi,,Not Available,500.0
+48,,2000.0,,,,2025-01-01,
+503,Laptop,150.0,3,Nairobi,Brian,Not Available,450.0
+407,Camera,100.0,5,,,,500.0
+574,,50.0,3,Nairobi,Brian,2025-01-01,150.0
+728,,150.0,1,Nakuru,Kelvin,Not Available,150.0
+99,Tablet,1200.0,3,,Brian,Not Available,3600.0
+684,Tablet,50.0,,,James,2025-01-05,
+726,Tablet,50.0,,,Brian,,
+547,,,1,Kisumu,Kelvin,2025-01-01,
+739,,500.0,4,Nairobi,Susan,2025-01-05,2000.0
+613,Camera,150.0,3,,,,450.0
+462,Laptop,50.0,4,Mombasa,Brian,,200.0
+643,Camera,,4,Nairobi,,2025-01-01,
+769,Camera,1200.0,2,Kisumu,Mary,Not Available,2400.0
+5,,100.0,1,,James,2025-01-01,100.0
+218,Tablet,2000.0,5,,James,Not Available,10000.0
+503,Phone,2000.0,,Kisumu,Mary,,
+767,Laptop,150.0,,Mombasa,Mary,Not Available,
+398,,50.0,1,,Brian,,50.0
+795,Tablet,2000.0,5,Nakuru,Mary,Not Available,10000.0
+393,,500.0,,Nairobi,Susan,,
+207,Phone,2000.0,1,,,,2000.0
+15,Phone,2000.0,,Nakuru,,,
+554,,2000.0,4,,Kelvin,2025-01-01,8000.0
+461,Headphones,,3,,Mary,,
+691,Laptop,50.0,3,Kisumu,Mary,,150.0
+575,Phone,500.0,,,Susan,2025-01-05,
+743,,50.0,2,,James,2025-01-05,100.0
+241,,150.0,5,Nakuru,James,2025-01-05,750.0
+564,Tablet,150.0,5,,,Not Available,750.0
+96,,150.0,5,Mombasa,,2025-01-05,750.0
+734,Headphones,1200.0,4,Mombasa,Brian,,4800.0
+485,Laptop,2000.0,5,Nairobi,Susan,Not Available,10000.0
+407,Camera,1200.0,3,Nairobi,Kelvin,,3600.0
+231,,,4,Mombasa,Kelvin,2025-01-01,
+749,,150.0,1,,Susan,2025-01-05,150.0
+655,Tablet,500.0,5,,Kelvin,,2500.0
+171,Phone,50.0,5,Mombasa,James,,250.0
+541,Phone,2000.0,1,Nairobi,Kelvin,2025-01-01,2000.0
+36,Tablet,100.0,5,Mombasa,Kelvin,,500.0
+525,,500.0,1,,Susan,2025-01-01,500.0
+160,Phone,2000.0,4,Mombasa,Susan,2025-01-05,8000.0
+699,Headphones,1200.0,3,,Kelvin,,3600.0
+243,Laptop,1200.0,1,Nakuru,Mary,2025-01-01,1200.0
+86,,500.0,2,,Susan,,1000.0
+796,,1200.0,1,Nairobi,Brian,2025-01-05,1200.0
+578,Headphones,150.0,5,,Brian,2025-01-05,750.0
+682,Phone,,4,Mombasa,James,,
+557,,50.0,,Mombasa,Kelvin,,
+574,Camera,,4,Nakuru,Mary,2025-01-01,
+646,Laptop,2000.0,,Nairobi,James,Not Available,
+796,Laptop,50.0,1,Nairobi,Kelvin,2025-01-05,50.0
+28,,50.0,3,Kisumu,Susan,2025-01-01,150.0
+620,Tablet,,2,Nairobi,Brian,,
+556,,500.0,4,Nakuru,,2025-01-01,2000.0
+340,Tablet,50.0,5,Kisumu,Mary,,250.0
+798,,,,Kisumu,,,
+331,Camera,50.0,5,Mombasa,Brian,,250.0
+640,,100.0,3,Mombasa,,,300.0
+506,Laptop,500.0,,Nairobi,Susan,,
+348,,150.0,4,Kisumu,Kelvin,Not Available,600.0
+473,Camera,50.0,1,Mombasa,Susan,,50.0
+231,Tablet,100.0,5,Nakuru,,2025-01-05,500.0
+190,Tablet,150.0,3,Mombasa,Susan,2025-01-05,450.0
+225,Laptop,150.0,4,,Brian,2025-01-01,600.0
+385,Headphones,2000.0,4,,Mary,Not Available,8000.0
+377,,50.0,4,Mombasa,Susan,2025-01-01,200.0
+283,Phone,,4,Kisumu,Brian,2025-01-05,
+633,Tablet,50.0,,Kisumu,Mary,2025-01-05,
+628,,100.0,4,,Kelvin,,400.0
+745,,150.0,5,,,,750.0
+259,Tablet,50.0,3,Nakuru,Kelvin,2025-01-05,150.0
+359,Headphones,,,Kisumu,James,2025-01-01,
+710,Headphones,2000.0,4,Nairobi,Brian,2025-01-01,8000.0
+456,Camera,50.0,2,,Mary,,100.0
+411,,500.0,2,Nakuru,Susan,,1000.0
+649,Camera,2000.0,3,Nakuru,Kelvin,,6000.0
+318,,,1,Kisumu,Mary,Not Available,
+677,,100.0,1,Nakuru,Brian,2025-01-01,100.0
+225,,150.0,,Kisumu,James,,
+234,Phone,50.0,,Mombasa,Kelvin,2025-01-01,
+684,,,,,,,
+664,Phone,2000.0,1,,Mary,2025-01-05,2000.0
+374,,500.0,2,Mombasa,,2025-01-01,1000.0
+672,Laptop,,1,,Mary,2025-01-05,
+608,,1200.0,5,Kisumu,Mary,2025-01-01,6000.0
+472,Camera,500.0,4,,Brian,Not Available,2000.0
+233,Tablet,2000.0,,Kisumu,Brian,,
+692,Camera,100.0,2,Mombasa,Brian,2025-01-05,200.0
+113,Tablet,150.0,3,Nairobi,Susan,,450.0
+497,Headphones,2000.0,3,Nairobi,Mary,Not Available,6000.0
+442,Camera,100.0,4,,Kelvin,2025-01-01,400.0
+564,Headphones,50.0,2,Nairobi,,2025-01-05,100.0
+268,Phone,,1,Kisumu,Brian,2025-01-01,
+510,Phone,1200.0,1,Nakuru,Brian,2025-01-01,1200.0
+386,Laptop,500.0,5,Kisumu,,2025-01-01,2500.0
+387,,500.0,5,Nakuru,,,2500.0
+113,Camera,,1,Mombasa,Mary,,
+613,Headphones,1200.0,3,,Brian,,3600.0
+625,Tablet,,,Nakuru,,2025-01-05,
+81,Phone,50.0,3,Nairobi,Susan,Not Available,150.0
+699,,100.0,5,Kisumu,Susan,Not Available,500.0
+113,Phone,2000.0,4,Mombasa,Brian,Not Available,8000.0
+2,Tablet,500.0,1,Nairobi,,2025-01-01,500.0
+642,,50.0,5,Mombasa,Mary,,250.0
+220,,100.0,5,,Mary,2025-01-05,500.0
+566,Headphones,50.0,,Kisumu,Mary,2025-01-01,
+736,Headphones,1200.0,1,,James,,1200.0
+225,Camera,500.0,,Kisumu,Brian,,
+385,Camera,2000.0,1,,Mary,2025-01-05,2000.0
+403,,,,Kisumu,Susan,2025-01-05,
+638,,,3,,,2025-01-05,
+130,Laptop,100.0,4,Nakuru,Kelvin,2025-01-01,400.0
+53,Phone,2000.0,4,Mombasa,Kelvin,,8000.0
+684,Camera,150.0,1,,Mary,2025-01-05,150.0
+730,Headphones,1200.0,2,Nairobi,Kelvin,,2400.0
+672,Tablet,100.0,5,,Kelvin,2025-01-01,500.0
+710,Headphones,150.0,5,Nakuru,James,,750.0
+416,Phone,50.0,1,Nairobi,Susan,Not Available,50.0
+247,,1200.0,,Nairobi,Susan,,
+439,Headphones,50.0,2,,James,2025-01-05,100.0
+203,Laptop,2000.0,3,Nakuru,James,2025-01-01,6000.0
+184,Phone,500.0,,Nairobi,Kelvin,2025-01-05,
+123,,1200.0,,Nairobi,Brian,Not Available,
+401,Tablet,150.0,1,Nakuru,,2025-01-05,150.0
+767,,500.0,1,Kisumu,,2025-01-05,500.0
+294,,,5,Nairobi,Kelvin,2025-01-05,
+280,Laptop,150.0,1,Mombasa,,,150.0
+610,Phone,100.0,1,Nakuru,James,Not Available,100.0
+198,Tablet,,1,Nairobi,Susan,2025-01-05,
+511,Laptop,,5,,,2025-01-05,
+752,,100.0,3,,Kelvin,2025-01-05,300.0
+144,Laptop,1200.0,3,Mombasa,Brian,2025-01-01,3600.0
+609,Phone,,1,,Kelvin,,
+201,Camera,2000.0,5,,Mary,2025-01-01,10000.0
+124,Laptop,150.0,3,Nairobi,Kelvin,,450.0
+187,,500.0,,Mombasa,James,2025-01-05,
+326,Laptop,,3,Mombasa,Susan,Not Available,
+464,,150.0,3,Kisumu,Susan,,450.0
+349,,50.0,5,,,,250.0
+771,Tablet,150.0,,Mombasa,James,2025-01-05,
+660,,500.0,5,Kisumu,Mary,2025-01-01,2500.0
+764,Headphones,150.0,1,Nakuru,James,Not Available,150.0
+403,Phone,100.0,4,Kisumu,Kelvin,,400.0
+346,Phone,500.0,3,,James,2025-01-05,1500.0
+511,Camera,1200.0,4,Nairobi,James,Not Available,4800.0
+147,Camera,50.0,5,Nakuru,Mary,Not Available,250.0
+148,Phone,100.0,5,Nakuru,Kelvin,,500.0
+711,,1200.0,5,,Brian,Not Available,6000.0
+489,Camera,150.0,4,Kisumu,Brian,2025-01-01,600.0
+640,Tablet,500.0,5,Nairobi,Susan,2025-01-01,2500.0
+551,,50.0,1,Kisumu,,2025-01-01,50.0
+338,Phone,100.0,5,Mombasa,James,Not Available,500.0
+641,Camera,1200.0,2,Kisumu,Susan,2025-01-01,2400.0
+779,Phone,1200.0,4,Nakuru,Mary,,4800.0
+473,Headphones,50.0,2,Nairobi,Brian,Not Available,100.0
+151,Laptop,2000.0,5,Kisumu,James,,10000.0
+415,,150.0,1,Nairobi,Mary,Not Available,150.0
+298,Phone,50.0,3,Nairobi,,,150.0
+611,Laptop,1200.0,,Mombasa,Mary,,
+263,Camera,,,Mombasa,James,Not Available,
+764,Laptop,100.0,5,Nakuru,,2025-01-01,500.0
+144,,50.0,1,,Mary,2025-01-05,50.0
+346,Phone,2000.0,4,Nairobi,,2025-01-05,8000.0
+624,Headphones,1200.0,2,,James,2025-01-01,2400.0
+572,,150.0,2,Nakuru,James,2025-01-05,300.0
+2,Camera,1200.0,2,Nairobi,,2025-01-05,2400.0
+304,Phone,150.0,4,Nairobi,Kelvin,2025-01-01,600.0
+254,,50.0,,,Susan,2025-01-01,
+652,Camera,150.0,1,,Mary,Not Available,150.0
+453,Tablet,500.0,4,Kisumu,Mary,Not Available,2000.0
+37,Laptop,500.0,2,Mombasa,Kelvin,2025-01-01,1000.0
+160,,500.0,5,Kisumu,Kelvin,,2500.0
+9,,2000.0,3,,Kelvin,2025-01-05,6000.0
+233,Tablet,2000.0,4,Mombasa,Brian,Not Available,8000.0
+99,Phone,,4,Kisumu,Brian,2025-01-05,
+659,Headphones,2000.0,1,,,,2000.0
+208,Camera,50.0,1,Mombasa,Brian,2025-01-01,50.0
+131,Laptop,1200.0,4,Nairobi,James,,4800.0
+404,Camera,1200.0,2,Kisumu,,,2400.0
+152,,,3,Mombasa,Mary,,
+54,Phone,2000.0,1,,Susan,,2000.0
+120,Camera,150.0,2,Mombasa,James,2025-01-01,300.0
+673,Laptop,,5,Mombasa,Mary,Not Available,
+628,Phone,150.0,1,,Mary,2025-01-01,150.0
+587,Camera,150.0,2,Kisumu,,Not Available,300.0
+625,Headphones,100.0,2,Nakuru,Kelvin,,200.0
+420,,1200.0,3,Kisumu,Kelvin,,3600.0
+422,Phone,500.0,3,,James,,1500.0
+104,,2000.0,5,,Kelvin,Not Available,10000.0
+254,Phone,150.0,2,Kisumu,Mary,,300.0
+227,Headphones,100.0,,Mombasa,Kelvin,2025-01-05,
+112,,1200.0,2,,Brian,,2400.0
+510,Tablet,500.0,3,Nairobi,Kelvin,2025-01-01,1500.0
+473,Laptop,150.0,,Kisumu,Mary,,
+99,Tablet,150.0,1,,,2025-01-05,150.0
+153,Camera,,1,Kisumu,James,Not Available,
+338,Headphones,,4,,Susan,2025-01-01,
+706,Tablet,1200.0,3,Mombasa,Kelvin,2025-01-01,3600.0
+163,Phone,500.0,4,Nairobi,Mary,Not Available,2000.0
+720,Camera,150.0,,Nairobi,Susan,,
+681,Camera,1200.0,3,,Susan,,3600.0
+161,Tablet,1200.0,5,,Brian,,6000.0
+580,Tablet,50.0,2,Kisumu,Susan,2025-01-05,100.0
+398,Headphones,2000.0,5,Nairobi,,,10000.0
+277,Laptop,,,Nairobi,Mary,,
+504,Tablet,500.0,3,Nakuru,Mary,Not Available,1500.0
+392,,150.0,,Nakuru,Kelvin,2025-01-05,
+135,Tablet,1200.0,2,Nairobi,Kelvin,2025-01-05,2400.0
+195,,150.0,1,,Kelvin,2025-01-05,150.0
+401,Phone,50.0,1,,,,50.0
+640,,500.0,,Nairobi,Susan,2025-01-01,
+33,,1200.0,4,Mombasa,Susan,,4800.0
+688,,150.0,3,Kisumu,Brian,,450.0
+460,,,3,,,2025-01-01,
+470,Camera,2000.0,1,Mombasa,Kelvin,,2000.0
+375,Laptop,50.0,5,,James,2025-01-01,250.0
+22,Phone,500.0,2,Mombasa,Brian,,1000.0
+750,Headphones,50.0,5,Kisumu,James,2025-01-05,250.0
+670,,,5,Kisumu,Susan,Not Available,
+38,Headphones,500.0,,Nakuru,Brian,2025-01-05,
+230,Tablet,50.0,1,,Brian,,50.0
+365,Tablet,100.0,1,Mombasa,Mary,2025-01-01,100.0
+563,Headphones,,1,Nakuru,Susan,2025-01-05,
+438,Tablet,,,Mombasa,Susan,,
+776,Laptop,,4,Nakuru,,,
+283,,100.0,5,Kisumu,Brian,Not Available,500.0
+27,Tablet,100.0,,,Susan,2025-01-05,
+226,Camera,150.0,3,Nakuru,Brian,2025-01-01,450.0
+277,Tablet,1200.0,2,Mombasa,,,2400.0
+798,Phone,2000.0,4,Mombasa,,,8000.0
+609,Laptop,50.0,3,,Mary,Not Available,150.0
+284,Phone,150.0,5,Kisumu,Brian,2025-01-01,750.0
+481,Phone,50.0,1,Mombasa,Susan,,50.0
+453,Camera,2000.0,5,Nairobi,Susan,,10000.0
+659,Laptop,1200.0,,,Brian,2025-01-05,
+516,Laptop,100.0,2,Nakuru,Brian,2025-01-05,200.0
+547,Laptop,1200.0,,,Brian,2025-01-01,
+192,Laptop,100.0,4,,Kelvin,,400.0
+49,Laptop,2000.0,4,Kisumu,Susan,2025-01-05,8000.0
+512,Camera,1200.0,2,,,Not Available,2400.0
+17,Tablet,150.0,3,Nakuru,Susan,Not Available,450.0
+172,Phone,500.0,3,Nakuru,Kelvin,,1500.0
+220,Laptop,150.0,4,Nairobi,Brian,2025-01-05,600.0
+158,,50.0,4,Kisumu,Mary,2025-01-01,200.0
+477,Tablet,150.0,1,,Brian,2025-01-01,150.0
+46,Tablet,2000.0,3,,Brian,2025-01-01,6000.0
+373,Phone,,2,Mombasa,Kelvin,Not Available,
+518,Camera,50.0,3,Nairobi,Susan,2025-01-05,150.0
+99,Headphones,1200.0,1,Nairobi,Brian,2025-01-05,1200.0
+745,Headphones,50.0,,,Susan,Not Available,
+37,Tablet,500.0,4,,James,2025-01-01,2000.0
+280,,100.0,4,,,2025-01-01,400.0
+349,,1200.0,1,,Susan,,1200.0
+497,Phone,50.0,2,,Mary,,100.0
+302,Headphones,1200.0,4,Nairobi,,2025-01-05,4800.0
+181,Tablet,1200.0,5,Mombasa,Mary,2025-01-05,6000.0
+607,Camera,1200.0,4,Nakuru,Brian,2025-01-05,4800.0
+99,Headphones,100.0,5,,,,500.0
+700,Tablet,2000.0,1,Mombasa,Susan,,2000.0
+116,Tablet,150.0,1,Kisumu,,,150.0
+191,Laptop,1200.0,4,,Brian,2025-01-01,4800.0
+253,Camera,,3,Nakuru,Kelvin,2025-01-01,
+161,Laptop,2000.0,5,Kisumu,Mary,2025-01-05,10000.0
+256,Phone,500.0,2,Kisumu,Brian,Not Available,1000.0
+323,Laptop,100.0,4,Nakuru,Kelvin,2025-01-05,400.0
+128,,50.0,2,,,Not Available,100.0
+18,Laptop,100.0,4,Nairobi,,,400.0
+793,,50.0,3,Nakuru,Brian,2025-01-01,150.0
+735,Headphones,100.0,3,Nakuru,Susan,Not Available,300.0
+566,,50.0,3,Nakuru,,,150.0
+570,Tablet,1200.0,,Kisumu,Susan,2025-01-01,
+323,,150.0,3,Mombasa,Susan,Not Available,450.0
+686,Camera,50.0,1,Nairobi,Susan,2025-01-05,50.0
+792,Laptop,50.0,1,,James,2025-01-05,50.0
+626,,,,,Kelvin,2025-01-05,
+288,Camera,50.0,5,Mombasa,Kelvin,,250.0
+663,,,2,Nakuru,,2025-01-05,
+639,,500.0,4,Nairobi,,,2000.0
+155,Laptop,1200.0,4,,Susan,2025-01-01,4800.0
+490,Phone,,,,James,,
+386,Laptop,150.0,1,,Susan,2025-01-05,150.0
+785,Headphones,2000.0,4,Nakuru,James,2025-01-01,8000.0
+104,,1200.0,1,,Susan,Not Available,1200.0
+393,Tablet,,5,Mombasa,Mary,2025-01-05,
+246,Phone,1200.0,2,Nairobi,Mary,2025-01-01,2400.0
+176,Laptop,1200.0,5,Mombasa,Brian,,6000.0
+39,Camera,1200.0,,Mombasa,Susan,Not Available,
+477,Phone,500.0,3,Nairobi,,,1500.0
+682,,150.0,3,Nairobi,Kelvin,2025-01-01,450.0
+759,Phone,100.0,3,,Brian,,300.0
+538,,100.0,5,,,2025-01-01,500.0
+408,Laptop,,4,Nairobi,Mary,2025-01-01,
+525,,1200.0,2,,Susan,,2400.0
+506,Phone,,3,Kisumu,Brian,2025-01-01,
+36,Camera,500.0,,,Susan,2025-01-05,
+685,,500.0,,Kisumu,Mary,2025-01-01,
+20,Phone,50.0,3,,Brian,,150.0
+321,,500.0,3,Nairobi,Mary,2025-01-01,1500.0
+776,,50.0,2,,James,,100.0
+512,,150.0,3,,Mary,2025-01-01,450.0
+400,Camera,,2,Mombasa,Susan,2025-01-01,
+654,,2000.0,,Nairobi,Kelvin,,
+471,Laptop,150.0,3,Nakuru,Mary,2025-01-05,450.0
+143,Tablet,500.0,5,Kisumu,,2025-01-05,2500.0
+92,Phone,150.0,5,,Kelvin,Not Available,750.0
+354,Tablet,150.0,,Nairobi,James,,
+727,,150.0,2,,Brian,,300.0
+51,Camera,500.0,5,Nairobi,Brian,2025-01-05,2500.0
+665,Phone,2000.0,2,,Kelvin,,4000.0
+698,,1200.0,5,,Brian,2025-01-05,6000.0
+575,,150.0,5,,Mary,,750.0
+190,Headphones,50.0,2,,Kelvin,2025-01-01,100.0
+125,,500.0,4,Nakuru,Susan,2025-01-05,2000.0
+150,Tablet,150.0,5,,Mary,2025-01-05,750.0
+314,Phone,2000.0,3,Nairobi,Mary,,6000.0
+570,Tablet,1200.0,,,Mary,,
+342,Phone,500.0,4,Mombasa,Susan,,2000.0
+305,,100.0,2,,James,2025-01-05,200.0
+692,Laptop,1200.0,4,,,2025-01-01,4800.0
+682,,50.0,1,Nakuru,Brian,2025-01-01,50.0
+783,,150.0,1,Mombasa,Kelvin,2025-01-01,150.0
+54,Tablet,2000.0,5,,James,,10000.0
+444,Headphones,100.0,5,,Kelvin,,500.0
+613,Headphones,2000.0,3,,Brian,2025-01-05,6000.0
+264,Camera,100.0,,Nairobi,Susan,Not Available,
+53,Phone,500.0,4,,Mary,,2000.0
+572,Tablet,100.0,1,Nairobi,Mary,Not Available,100.0
+620,Camera,50.0,5,,Susan,,250.0
+5,Tablet,50.0,,Kisumu,James,2025-01-01,
+103,Phone,,4,Mombasa,James,,
+196,,50.0,5,Kisumu,Kelvin,Not Available,250.0
+774,,1200.0,5,,Susan,,6000.0
+350,Headphones,100.0,1,Mombasa,James,,100.0
+47,,50.0,1,Mombasa,Susan,Not Available,50.0
+656,,500.0,5,Nakuru,Brian,2025-01-05,2500.0
+269,Laptop,2000.0,2,Kisumu,Mary,,4000.0
+370,Headphones,2000.0,5,Nakuru,Mary,2025-01-05,10000.0
+636,Camera,,,Mombasa,Mary,2025-01-01,
+106,,2000.0,5,Nairobi,Susan,2025-01-05,10000.0
+670,Laptop,100.0,3,Mombasa,Susan,2025-01-05,300.0
+659,Camera,,3,Nakuru,Kelvin,,
+657,Phone,100.0,3,Kisumu,Mary,2025-01-01,300.0
+120,Laptop,500.0,2,,Kelvin,2025-01-05,1000.0
+787,Camera,,2,,Mary,,
+604,Phone,150.0,5,Kisumu,Kelvin,Not Available,750.0
+58,Headphones,1200.0,3,,Kelvin,2025-01-05,3600.0
+346,,1200.0,2,,Brian,2025-01-01,2400.0
+741,Phone,100.0,1,Nakuru,Kelvin,2025-01-05,100.0
+474,,2000.0,5,Kisumu,Susan,Not Available,10000.0
+117,Tablet,150.0,,,Kelvin,2025-01-01,
+791,Phone,,4,Nairobi,Mary,,
+127,Phone,150.0,5,Nairobi,Kelvin,2025-01-01,750.0
+393,,150.0,4,,James,,600.0
+641,Tablet,2000.0,3,Nairobi,,2025-01-01,6000.0
+58,,,4,Kisumu,Mary,Not Available,
+634,Camera,500.0,3,Kisumu,James,Not Available,1500.0
+513,Camera,2000.0,1,Mombasa,Mary,2025-01-01,2000.0
+751,Phone,150.0,4,Mombasa,Susan,2025-01-05,600.0
+96,Tablet,150.0,5,Nairobi,,Not Available,750.0
+638,Tablet,500.0,3,,,,1500.0
+118,,150.0,5,Mombasa,Susan,,750.0
+560,,150.0,2,Mombasa,,,300.0
+601,Headphones,150.0,3,Kisumu,Susan,,450.0
+488,Camera,1200.0,4,,James,,4800.0
+237,,2000.0,3,,Brian,2025-01-01,6000.0
+272,Laptop,50.0,5,Nairobi,Mary,2025-01-01,250.0
+189,Camera,2000.0,1,Mombasa,Susan,2025-01-01,2000.0
+704,,500.0,3,,Mary,2025-01-05,1500.0
+447,Camera,150.0,4,,James,2025-01-05,600.0
+581,Headphones,2000.0,2,Nairobi,Brian,,4000.0
+790,Laptop,1200.0,,,James,,
+247,Headphones,500.0,1,,,,500.0
+76,,100.0,2,,Mary,2025-01-01,200.0
+154,Laptop,2000.0,3,Mombasa,Brian,Not Available,6000.0
+656,Phone,100.0,5,Nairobi,,2025-01-05,500.0
+435,,150.0,5,,Brian,2025-01-05,750.0
+86,Laptop,1200.0,4,,,2025-01-01,4800.0
+697,,1200.0,5,Mombasa,James,2025-01-05,6000.0
+285,,2000.0,1,Nairobi,Susan,2025-01-01,2000.0
+220,Headphones,500.0,5,Kisumu,Mary,,2500.0
+69,Camera,500.0,4,Mombasa,Kelvin,,2000.0
+47,Laptop,1200.0,,Nairobi,Kelvin,Not Available,
+94,,500.0,3,,James,,1500.0
+750,Laptop,1200.0,3,Nairobi,Mary,,3600.0
+453,Tablet,2000.0,5,Nairobi,Mary,,10000.0
+204,Camera,50.0,2,,James,2025-01-05,100.0
+218,,1200.0,3,Nairobi,Mary,Not Available,3600.0
+474,,100.0,,Kisumu,Susan,2025-01-05,
+432,Phone,500.0,5,Nairobi,James,,2500.0
+341,Headphones,1200.0,4,Kisumu,Susan,2025-01-01,4800.0
+551,Phone,1200.0,,,Mary,,
+612,,2000.0,5,Kisumu,James,2025-01-05,10000.0
+289,Camera,500.0,,,Mary,,
+254,Laptop,50.0,3,,James,2025-01-01,150.0
+734,Laptop,2000.0,4,Kisumu,Mary,,8000.0
+357,Camera,50.0,5,Mombasa,Susan,2025-01-05,250.0
+23,,2000.0,1,Nakuru,Susan,,2000.0
+762,,500.0,4,Nairobi,Mary,2025-01-05,2000.0
+522,Laptop,,1,,James,,
+758,,500.0,,Nakuru,Kelvin,,
+100,Laptop,500.0,2,Nairobi,Susan,,1000.0
+180,Laptop,50.0,4,Nairobi,Susan,2025-01-05,200.0
+223,Headphones,50.0,,,,2025-01-05,
+762,Headphones,500.0,1,Nairobi,Kelvin,2025-01-01,500.0
+659,Tablet,500.0,3,,Mary,,1500.0
+442,Phone,500.0,3,Nairobi,James,2025-01-01,1500.0
+608,Camera,50.0,2,Kisumu,,,100.0
+769,Camera,500.0,4,Nakuru,Mary,2025-01-05,2000.0
+325,Camera,500.0,4,Kisumu,Brian,,2000.0
+516,Tablet,150.0,4,,Susan,,600.0
+16,Headphones,,,Nairobi,Brian,Not Available,
+792,,100.0,2,,Susan,Not Available,200.0
+336,,,4,,Susan,,
+759,,150.0,,Kisumu,Brian,2025-01-05,
+258,,100.0,3,Kisumu,Brian,,300.0
+497,Tablet,2000.0,1,Mombasa,Mary,Not Available,2000.0
+160,,500.0,,Nairobi,,2025-01-05,
+475,Camera,150.0,3,,,,450.0
+664,Phone,2000.0,3,Kisumu,Brian,,6000.0
+690,Laptop,500.0,1,Kisumu,Mary,,500.0
+675,,50.0,3,,,,150.0
+380,Headphones,1200.0,2,,Mary,2025-01-05,2400.0
+545,Headphones,150.0,1,,Mary,,150.0
+691,Tablet,50.0,3,Nairobi,Susan,,150.0
+427,Headphones,150.0,5,Mombasa,,Not Available,750.0
+613,Camera,150.0,,Kisumu,,,
+268,,50.0,3,Mombasa,Susan,Not Available,150.0
+577,,100.0,2,,Brian,Not Available,200.0
+417,Camera,,4,,Susan,,
+168,Tablet,500.0,3,Nakuru,,Not Available,1500.0
+43,Camera,150.0,4,Nairobi,,,600.0
+556,,500.0,5,Nakuru,Brian,Not Available,2500.0
+285,Phone,1200.0,3,Nakuru,Susan,,3600.0
+397,Tablet,50.0,1,Nakuru,James,Not Available,50.0
+12,Phone,500.0,4,Nairobi,James,,2000.0
+607,Laptop,50.0,5,Nairobi,Brian,Not Available,250.0
+302,Phone,500.0,1,,Susan,Not Available,500.0
+253,Laptop,,1,Mombasa,Susan,2025-01-05,
+499,Laptop,,1,Mombasa,Mary,,
+754,Phone,,1,,,,
+35,Tablet,,3,,Kelvin,,
+727,,,,,Brian,2025-01-01,
+90,Camera,,3,Nakuru,Kelvin,Not Available,
+776,Camera,50.0,3,,Kelvin,,150.0
+605,,150.0,5,Kisumu,Brian,2025-01-01,750.0
+602,,500.0,5,Mombasa,Susan,2025-01-05,2500.0
+418,,,,,Brian,,
+115,Laptop,50.0,5,Kisumu,Kelvin,,250.0
+617,Laptop,50.0,2,Kisumu,,2025-01-01,100.0
+196,Tablet,50.0,,Kisumu,,Not Available,
+501,Headphones,150.0,5,,,2025-01-05,750.0
+626,Phone,500.0,,,Susan,,
+493,Laptop,150.0,3,Kisumu,James,Not Available,450.0
+75,Camera,100.0,3,,Brian,2025-01-05,300.0
+413,Tablet,2000.0,,Nakuru,,,
+376,Phone,50.0,2,Kisumu,Brian,,100.0
+420,Tablet,100.0,2,Nakuru,,2025-01-05,200.0
+729,Phone,1200.0,,Nakuru,Susan,2025-01-01,
+277,Phone,,5,Kisumu,James,2025-01-05,
+761,,2000.0,4,Mombasa,James,2025-01-05,8000.0
+676,Laptop,,2,Kisumu,,2025-01-01,
+394,Tablet,150.0,1,Kisumu,Susan,2025-01-01,150.0
+457,Tablet,2000.0,3,,Mary,Not Available,6000.0
+192,,500.0,,Kisumu,Brian,Not Available,
+739,Camera,100.0,1,Mombasa,Brian,2025-01-01,100.0
+689,Camera,500.0,,,Kelvin,,
+99,,150.0,3,Nairobi,Susan,,450.0
+548,Laptop,,3,Nairobi,Kelvin,2025-01-05,
+96,Laptop,2000.0,2,Nakuru,,,4000.0
+664,Headphones,500.0,2,Nakuru,Kelvin,2025-01-05,1000.0
+663,,500.0,1,Mombasa,James,2025-01-05,500.0
+190,Camera,,,,Brian,,
+736,Phone,2000.0,3,Nairobi,Kelvin,2025-01-01,6000.0
+37,Tablet,100.0,1,Nakuru,James,,100.0
+780,Laptop,,4,Nairobi,Susan,2025-01-05,
+369,Tablet,500.0,1,Mombasa,Kelvin,,500.0
+695,Tablet,100.0,5,Mombasa,,Not Available,500.0
+525,Headphones,100.0,1,,,2025-01-05,100.0
+279,Camera,,5,,,,
+217,Laptop,500.0,5,,Brian,2025-01-01,2500.0
+798,Tablet,150.0,5,Mombasa,Kelvin,2025-01-05,750.0
+273,Laptop,500.0,4,Nakuru,Susan,2025-01-05,2000.0
+62,Phone,50.0,1,Nairobi,Kelvin,,50.0
+596,Headphones,2000.0,1,Kisumu,Brian,Not Available,2000.0
+729,Phone,1200.0,4,,James,Not Available,4800.0
+342,Laptop,150.0,3,Kisumu,Brian,2025-01-01,450.0
+397,,100.0,2,Nakuru,,,200.0
+699,Laptop,150.0,1,,James,2025-01-01,150.0
+19,Camera,2000.0,2,Kisumu,,2025-01-05,4000.0
+177,Tablet,100.0,,Nakuru,Mary,2025-01-05,
+612,Tablet,2000.0,,Nairobi,Brian,Not Available,
+396,Phone,100.0,4,Nakuru,Brian,,400.0
+445,Headphones,150.0,,,Susan,,
+233,,100.0,,,Kelvin,,
+76,,100.0,3,Mombasa,James,2025-01-05,300.0
+265,Tablet,50.0,3,Nairobi,James,,150.0
+455,Camera,500.0,3,Kisumu,Susan,,1500.0
+796,Phone,500.0,,,Susan,,
+718,Phone,1200.0,4,Mombasa,Kelvin,,4800.0
+735,,1200.0,5,Nakuru,,2025-01-05,6000.0
+384,Camera,50.0,5,Mombasa,Kelvin,,250.0
+564,Headphones,1200.0,2,,Brian,,2400.0
+506,Camera,2000.0,5,,,2025-01-05,10000.0
+367,Headphones,150.0,5,,Mary,,750.0
+144,Camera,,3,,Kelvin,,
+69,Camera,2000.0,3,Mombasa,Susan,,6000.0
+99,Laptop,,,Nakuru,,2025-01-05,
+396,Phone,,2,Mombasa,Kelvin,,
+25,Camera,50.0,1,,James,2025-01-01,50.0
+469,,2000.0,2,,Mary,2025-01-01,4000.0
+484,Camera,50.0,2,Kisumu,Brian,2025-01-05,100.0
+565,Tablet,100.0,4,,James,,400.0
+151,Phone,,,Kisumu,James,,
+144,Tablet,150.0,4,Nairobi,Mary,,600.0
+569,Phone,1200.0,2,,Brian,2025-01-05,2400.0
+39,Tablet,150.0,2,Kisumu,Susan,2025-01-05,300.0
+109,Camera,1200.0,2,Mombasa,,2025-01-01,2400.0
+693,Camera,,5,,Brian,Not Available,
+42,Laptop,,4,,Kelvin,2025-01-05,
+186,,,2,Nakuru,James,Not Available,
+398,Tablet,50.0,3,Mombasa,Kelvin,2025-01-05,150.0
+223,Headphones,2000.0,,Nakuru,Susan,,
+634,Laptop,1200.0,,Kisumu,Kelvin,,
+133,Tablet,2000.0,3,Nairobi,Brian,2025-01-01,6000.0
+163,Tablet,50.0,,Mombasa,Kelvin,2025-01-01,
+215,Laptop,50.0,5,Mombasa,Susan,Not Available,250.0
+733,Camera,500.0,5,Mombasa,Susan,2025-01-05,2500.0
+235,Tablet,150.0,1,Nakuru,Susan,,150.0
+658,Camera,150.0,1,Kisumu,Brian,2025-01-01,150.0
+751,Laptop,100.0,1,Mombasa,Susan,,100.0
+588,Camera,50.0,,Mombasa,James,,
+9,Phone,1200.0,5,,Susan,2025-01-05,6000.0
+74,Headphones,500.0,5,Nairobi,Kelvin,Not Available,2500.0
+492,,500.0,5,,,2025-01-05,2500.0
+253,Tablet,2000.0,3,,Kelvin,2025-01-01,6000.0
+230,,150.0,5,Nairobi,,,750.0
+519,Headphones,50.0,3,Kisumu,Kelvin,2025-01-05,150.0
+174,,100.0,1,,Brian,2025-01-05,100.0
+653,Camera,50.0,1,Kisumu,Kelvin,2025-01-05,50.0
+168,Tablet,2000.0,,,Brian,2025-01-01,
+170,Camera,,1,,Brian,Not Available,
+393,Phone,50.0,,Nairobi,Susan,2025-01-05,
+795,Laptop,2000.0,2,,James,2025-01-01,4000.0
+634,Tablet,,2,,,,
+194,,,4,Nakuru,Susan,,
+517,,100.0,,,Susan,2025-01-01,
+29,Phone,1200.0,4,Mombasa,Brian,,4800.0
+165,Phone,150.0,4,,Brian,2025-01-05,600.0
+422,Tablet,50.0,2,,,2025-01-05,100.0
+339,Camera,,,Kisumu,Kelvin,2025-01-01,
+648,,50.0,2,Nakuru,Kelvin,,100.0
+496,,1200.0,4,,Susan,2025-01-05,4800.0
+365,,150.0,,Mombasa,Mary,,
+342,Phone,1200.0,4,,Mary,Not Available,4800.0
+500,Headphones,150.0,5,Nakuru,Kelvin,Not Available,750.0
+657,Phone,500.0,,,Mary,2025-01-05,
+511,,150.0,,Nakuru,Kelvin,,
+327,Camera,100.0,4,Mombasa,Brian,2025-01-05,400.0
+217,Camera,1200.0,5,,Susan,,6000.0
+301,Headphones,,3,Nakuru,James,,
+132,,500.0,2,Nakuru,Susan,,1000.0
+70,Phone,100.0,4,Nairobi,Kelvin,2025-01-05,400.0
+252,Camera,50.0,,Nakuru,Kelvin,,
+415,,1200.0,2,Nairobi,Susan,2025-01-01,2400.0
+787,Tablet,2000.0,2,,,Not Available,4000.0
+445,Laptop,2000.0,2,,Kelvin,2025-01-05,4000.0
+182,Laptop,,3,,Mary,2025-01-05,
+167,Laptop,150.0,1,,Mary,2025-01-05,150.0
+91,,,4,,Kelvin,,
+714,Phone,2000.0,1,Kisumu,Kelvin,2025-01-01,2000.0
+531,Headphones,50.0,1,,,,50.0
+39,Camera,500.0,1,Nakuru,Mary,2025-01-01,500.0
+126,Tablet,500.0,2,,Kelvin,,1000.0
+451,,1200.0,5,Mombasa,Kelvin,2025-01-05,6000.0
+173,Tablet,500.0,2,,,Not Available,1000.0
+653,,1200.0,2,Nairobi,,2025-01-05,2400.0
+754,,1200.0,,,Susan,,
+220,Phone,1200.0,,Kisumu,,Not Available,
+638,Laptop,2000.0,1,,James,2025-01-05,2000.0
+58,Phone,2000.0,2,,Mary,Not Available,4000.0
+660,,150.0,1,,Susan,2025-01-01,150.0
+476,Headphones,100.0,,Mombasa,James,,
+456,Headphones,1200.0,5,Mombasa,Kelvin,2025-01-05,6000.0
+361,,1200.0,4,Kisumu,Kelvin,,4800.0
+1,,100.0,1,Nairobi,Susan,2025-01-01,100.0
+387,Camera,,5,,,2025-01-05,
+348,Camera,1200.0,4,,Kelvin,2025-01-01,4800.0
+190,,150.0,3,,Brian,,450.0
+505,Headphones,500.0,1,Kisumu,Susan,2025-01-05,500.0
+191,Headphones,500.0,1,Nakuru,James,,500.0
+508,Headphones,50.0,3,Nakuru,Susan,Not Available,150.0
+369,Phone,50.0,3,Kisumu,Mary,,150.0
+409,Headphones,500.0,1,,,Not Available,500.0
+117,Tablet,500.0,3,Kisumu,,2025-01-05,1500.0
+134,Laptop,2000.0,2,,Susan,Not Available,4000.0
+58,Headphones,150.0,4,Mombasa,Kelvin,2025-01-05,600.0
+556,,100.0,4,Kisumu,Kelvin,2025-01-05,400.0
+685,Laptop,50.0,4,,Brian,,200.0
+672,Phone,2000.0,2,Kisumu,Brian,2025-01-05,4000.0
+173,,2000.0,3,Kisumu,,Not Available,6000.0
+149,Laptop,100.0,5,,Brian,,500.0
+80,,2000.0,3,,James,,6000.0
+213,Phone,150.0,1,Nairobi,Brian,2025-01-05,150.0
+203,Tablet,500.0,,Kisumu,James,,
+764,Phone,1200.0,4,Nakuru,Brian,,4800.0
+229,Phone,100.0,3,Kisumu,,,300.0
+676,,500.0,5,Kisumu,,2025-01-05,2500.0
+227,,500.0,1,,James,,500.0
+659,Camera,,2,Kisumu,Susan,2025-01-05,
+532,Headphones,100.0,2,,,2025-01-05,200.0
+441,Headphones,2000.0,5,Kisumu,Susan,,10000.0
+402,Tablet,1200.0,1,,Kelvin,,1200.0
+47,Tablet,100.0,4,Nakuru,James,2025-01-01,400.0
+233,Headphones,2000.0,3,,,,6000.0
+305,Camera,500.0,1,Kisumu,Mary,,500.0
+526,Headphones,1200.0,2,,Kelvin,,2400.0
+143,,2000.0,5,,Susan,Not Available,10000.0
+415,Camera,150.0,5,,,2025-01-05,750.0
+513,Tablet,2000.0,3,Mombasa,James,,6000.0
+373,Laptop,,5,Nairobi,Brian,,
+566,,500.0,5,Nakuru,Mary,2025-01-01,2500.0
+259,,2000.0,1,Kisumu,Susan,,2000.0
+656,,50.0,4,Mombasa,Kelvin,2025-01-05,200.0
+471,Tablet,50.0,3,Kisumu,James,2025-01-05,150.0
+12,Tablet,,1,Kisumu,Mary,,
+330,Phone,150.0,4,,James,Not Available,600.0
+736,,500.0,1,,,,500.0
+784,Phone,100.0,,,Brian,,
+358,Phone,,1,Mombasa,Kelvin,2025-01-01,
+408,,150.0,5,Kisumu,James,,750.0
+668,Phone,100.0,4,Nairobi,Susan,Not Available,400.0
+373,Camera,50.0,3,Nakuru,,,150.0
+8,Headphones,50.0,3,,,2025-01-05,150.0
+122,Laptop,100.0,4,,Kelvin,,400.0
+348,Tablet,,5,Kisumu,,,
+676,Camera,50.0,2,Kisumu,Susan,,100.0
+90,Laptop,500.0,1,Mombasa,James,,500.0
+648,,1200.0,5,Mombasa,Kelvin,,6000.0
+698,,2000.0,,,,,
+316,,100.0,4,Kisumu,,2025-01-01,400.0
+178,Camera,100.0,1,Nairobi,Susan,Not Available,100.0
+540,Camera,50.0,3,Nakuru,Brian,,150.0
+732,Tablet,,2,Kisumu,Brian,Not Available,
+41,Headphones,500.0,,Kisumu,,,
+740,Phone,,3,,James,,
+704,,150.0,4,Mombasa,Kelvin,,600.0
+502,,150.0,1,Nakuru,,2025-01-05,150.0
+145,Headphones,1200.0,4,,Mary,2025-01-01,4800.0
+201,,50.0,1,Kisumu,Kelvin,,50.0
+724,Tablet,50.0,5,,Brian,,250.0
+461,Tablet,50.0,2,Kisumu,,2025-01-05,100.0
+732,Tablet,1200.0,5,,Susan,,6000.0
+752,Laptop,150.0,5,Nakuru,Mary,2025-01-01,750.0
+558,,,4,Mombasa,,,
+547,Headphones,1200.0,2,Nakuru,James,2025-01-01,2400.0
+253,Headphones,1200.0,1,,Mary,,1200.0
+390,Camera,,1,Nairobi,,,
+594,Camera,50.0,,Mombasa,James,,
+256,,500.0,3,Nakuru,Mary,,1500.0
+709,Camera,,,,James,Not Available,
+450,Tablet,150.0,,Nairobi,James,,
+10,Headphones,100.0,1,,Mary,2025-01-05,100.0
+798,,100.0,4,Kisumu,Mary,2025-01-05,400.0
+242,Tablet,2000.0,5,Kisumu,James,,10000.0
+251,Laptop,2000.0,5,,Brian,2025-01-05,10000.0
+5,Camera,1200.0,5,Mombasa,Mary,,6000.0
+119,Tablet,100.0,2,Kisumu,,2025-01-05,200.0
+374,Tablet,500.0,1,,Kelvin,Not Available,500.0
+65,Laptop,50.0,4,Mombasa,Susan,2025-01-05,200.0
+146,Phone,150.0,2,Kisumu,James,,300.0
+224,Headphones,2000.0,3,,James,,6000.0
+239,,500.0,4,Nakuru,Susan,2025-01-01,2000.0
+177,,150.0,,,Brian,2025-01-01,
+779,Phone,150.0,4,Nairobi,Susan,,600.0
+282,Camera,50.0,4,Kisumu,Mary,Not Available,200.0
+63,Tablet,1200.0,5,Nairobi,Susan,2025-01-05,6000.0
+217,Laptop,100.0,4,Nairobi,James,Not Available,400.0
+795,Laptop,50.0,,,Susan,2025-01-01,
+689,Headphones,500.0,,Mombasa,Kelvin,,
+461,Phone,1200.0,1,,,,1200.0
+610,,500.0,4,Kisumu,Mary,Not Available,2000.0
+105,Headphones,1200.0,5,Nairobi,Susan,Not Available,6000.0
+99,Tablet,2000.0,4,Nakuru,James,2025-01-05,8000.0
+511,Headphones,500.0,3,Nairobi,,,1500.0
+385,,50.0,3,Nakuru,Mary,,150.0
+405,Laptop,1200.0,5,,James,2025-01-05,6000.0
+518,Laptop,1200.0,1,,Brian,,1200.0
+476,Camera,150.0,1,Mombasa,Kelvin,2025-01-01,150.0
+709,Camera,150.0,,Nairobi,Brian,,
+645,,,,,Kelvin,2025-01-05,
+771,Tablet,500.0,2,,Susan,,1000.0
+437,,150.0,5,,Mary,,750.0
+23,Phone,,4,Mombasa,Susan,Not Available,
+565,Headphones,2000.0,5,Nakuru,Kelvin,2025-01-01,10000.0
+677,,2000.0,2,Mombasa,Kelvin,,4000.0
+714,Tablet,150.0,,Nairobi,Kelvin,,
+458,Camera,500.0,5,Kisumu,,2025-01-05,2500.0
+83,Headphones,1200.0,5,Kisumu,James,Not Available,6000.0
+145,Camera,100.0,,Nakuru,Mary,Not Available,
+85,Headphones,500.0,2,,Susan,2025-01-01,1000.0
+78,Phone,50.0,,Nakuru,Susan,2025-01-05,
+457,Tablet,2000.0,1,,Brian,2025-01-01,2000.0
+1,Headphones,150.0,4,,Kelvin,,600.0
+51,,150.0,,Kisumu,Kelvin,,
+685,,1200.0,2,Nakuru,Kelvin,2025-01-01,2400.0
+717,Laptop,50.0,3,Mombasa,Susan,,150.0
+772,,1200.0,1,,Brian,2025-01-05,1200.0
+446,,50.0,3,,James,,150.0
+449,,100.0,,,,2025-01-05,
+488,Laptop,2000.0,1,Mombasa,Mary,,2000.0
+34,,150.0,4,,James,,600.0
+348,Headphones,150.0,,Nairobi,Susan,,
+95,Headphones,100.0,4,,,2025-01-05,400.0
+72,Headphones,,5,Mombasa,,2025-01-05,
+551,Laptop,2000.0,3,Nakuru,,2025-01-01,6000.0
+154,,1200.0,1,,Kelvin,2025-01-05,1200.0
+250,Laptop,100.0,4,Mombasa,Mary,2025-01-01,400.0
+674,Headphones,1200.0,2,Kisumu,Susan,Not Available,2400.0
+438,,500.0,4,Nakuru,Susan,Not Available,2000.0
+118,,150.0,2,Kisumu,,Not Available,300.0
+771,,1200.0,,,Susan,2025-01-05,
+306,Camera,50.0,1,Nakuru,Mary,2025-01-05,50.0
+268,Camera,1200.0,4,,Mary,2025-01-01,4800.0
+54,Phone,500.0,4,Mombasa,Brian,,2000.0
+236,Tablet,2000.0,1,,Brian,2025-01-01,2000.0
+389,Camera,150.0,4,Nairobi,James,Not Available,600.0
+734,Laptop,100.0,2,Nakuru,Mary,2025-01-01,200.0
+763,Camera,500.0,4,Nakuru,Mary,,2000.0
+401,Phone,150.0,3,,Mary,2025-01-05,450.0
+624,,1200.0,,,Brian,2025-01-01,
+767,Phone,2000.0,5,Kisumu,,Not Available,10000.0
+303,,,2,,,Not Available,
+207,,2000.0,3,Kisumu,Susan,2025-01-05,6000.0
+229,,,,Kisumu,,2025-01-01,
+578,,50.0,1,,Kelvin,,50.0
+75,Tablet,2000.0,2,Nairobi,Brian,2025-01-05,4000.0
+435,Camera,150.0,5,Kisumu,Mary,2025-01-01,750.0
+103,Laptop,,,Kisumu,,,
+422,Laptop,100.0,5,Nakuru,Brian,Not Available,500.0
+704,Headphones,150.0,1,,,,150.0
+764,,100.0,1,Mombasa,James,,100.0
+738,Laptop,2000.0,2,Nairobi,Mary,,4000.0
+306,Tablet,100.0,4,Nairobi,James,Not Available,400.0
+98,,,1,,Mary,2025-01-01,
+798,Tablet,150.0,,,Brian,2025-01-05,
+335,Laptop,1200.0,4,,Susan,2025-01-01,4800.0
+435,Laptop,500.0,3,Nakuru,,2025-01-05,1500.0
+447,Headphones,,5,Nakuru,,,
+308,Laptop,,4,,Kelvin,2025-01-01,
+249,,1200.0,5,Nakuru,James,,6000.0
+166,,150.0,4,Nairobi,,,600.0
+481,,150.0,3,Nairobi,Brian,,450.0
+335,,2000.0,1,Mombasa,Susan,,2000.0
+542,Headphones,100.0,3,,Brian,2025-01-05,300.0
+759,Headphones,2000.0,1,,James,,2000.0
+106,Laptop,1200.0,1,Kisumu,Kelvin,,1200.0
+563,Phone,2000.0,5,,,,10000.0
+81,Phone,1200.0,,Kisumu,Brian,,
+133,Headphones,150.0,3,Mombasa,Mary,,450.0
+797,Laptop,100.0,4,Mombasa,Susan,2025-01-01,400.0
+138,Phone,2000.0,3,Nakuru,Brian,2025-01-05,6000.0
+184,Laptop,,5,Mombasa,Susan,,
+401,Laptop,50.0,1,Mombasa,,,50.0
+330,Laptop,500.0,5,Kisumu,Mary,Not Available,2500.0
+785,Camera,,2,Nakuru,Kelvin,,
+508,,150.0,2,Mombasa,Kelvin,2025-01-05,300.0
+69,Laptop,500.0,4,,Mary,,2000.0
+546,Camera,50.0,5,Mombasa,Susan,,250.0
+774,Headphones,50.0,4,Nakuru,,,200.0
+53,Phone,100.0,4,,Brian,,400.0
+450,,500.0,2,Nakuru,Mary,Not Available,1000.0
+205,,100.0,4,Kisumu,James,,400.0
+126,Phone,,2,,Susan,,
+747,,1200.0,1,,Kelvin,2025-01-01,1200.0
+43,,1200.0,5,Nairobi,Mary,,6000.0
+752,Phone,1200.0,4,Nakuru,Kelvin,,4800.0
+111,,500.0,2,Kisumu,Susan,,1000.0
+761,Phone,1200.0,3,,Kelvin,Not Available,3600.0
+663,Phone,,4,,Mary,2025-01-05,
+183,,100.0,,,Susan,2025-01-05,
+95,Phone,500.0,1,Nakuru,James,,500.0
+374,Phone,100.0,1,Mombasa,Mary,2025-01-05,100.0
+520,,500.0,3,Nakuru,Brian,2025-01-05,1500.0
+360,Headphones,100.0,2,Nairobi,,2025-01-01,200.0
+696,Laptop,50.0,4,Nakuru,Mary,,200.0
+281,Tablet,100.0,2,,Susan,,200.0
+195,Camera,1200.0,1,,,2025-01-05,1200.0
+195,Tablet,50.0,2,Nakuru,Mary,2025-01-05,100.0
+667,Tablet,100.0,1,,James,2025-01-05,100.0
+93,,500.0,2,Mombasa,James,Not Available,1000.0
+672,Laptop,500.0,3,,Brian,,1500.0
+61,,500.0,5,Nakuru,Kelvin,Not Available,2500.0
+634,Laptop,150.0,3,Mombasa,,,450.0
+51,,,3,,Susan,2025-01-01,
+403,,500.0,5,,Susan,,2500.0
+789,Laptop,50.0,5,Mombasa,Kelvin,2025-01-01,250.0
+5,Phone,500.0,4,Kisumu,James,,2000.0
+466,Headphones,150.0,4,Nakuru,James,,600.0
+604,Phone,1200.0,3,,Mary,2025-01-01,3600.0
+682,Headphones,50.0,3,,Brian,2025-01-01,150.0
+534,,150.0,1,,,2025-01-01,150.0
+405,Headphones,1200.0,1,,Brian,,1200.0
+513,,2000.0,4,Mombasa,Brian,2025-01-05,8000.0
+645,,2000.0,,,Mary,2025-01-01,
+233,Tablet,50.0,,Kisumu,Brian,,
+524,,100.0,4,Nakuru,Kelvin,,400.0
+346,,,1,Nakuru,Mary,Not Available,
+46,Tablet,,1,,Kelvin,Not Available,
+546,Headphones,150.0,,Nairobi,Mary,,
+78,Headphones,1200.0,2,Nairobi,Brian,2025-01-05,2400.0
+730,,,2,Mombasa,Kelvin,2025-01-01,
+73,Phone,1200.0,1,Nairobi,Kelvin,,1200.0
+794,,1200.0,2,Mombasa,Kelvin,2025-01-01,2400.0
+249,Phone,150.0,5,,Mary,,750.0
+47,,150.0,4,Mombasa,Susan,Not Available,600.0
+121,Tablet,150.0,4,Nairobi,Brian,2025-01-01,600.0
+214,,,1,,Kelvin,,
+239,Laptop,2000.0,3,,,2025-01-05,6000.0
+56,Headphones,150.0,,Nairobi,Susan,,
+350,Phone,,1,Mombasa,,2025-01-05,
+107,,150.0,2,Kisumu,Brian,2025-01-01,300.0
+48,Tablet,500.0,,Nakuru,Brian,2025-01-01,
+573,Phone,1200.0,3,Nairobi,Kelvin,2025-01-05,3600.0
+337,,150.0,2,Mombasa,Kelvin,Not Available,300.0
+26,Headphones,50.0,5,,Mary,,250.0
+257,,1200.0,2,Nairobi,Susan,,2400.0
+8,Headphones,1200.0,5,Nairobi,Susan,,6000.0
+625,Camera,150.0,,Nakuru,Kelvin,,
+253,Laptop,2000.0,5,Mombasa,Brian,2025-01-01,10000.0
+692,Camera,100.0,,Kisumu,Kelvin,,
+719,Tablet,2000.0,,,Brian,,
+303,Phone,150.0,,Mombasa,Brian,,
+639,Tablet,1200.0,,,Kelvin,2025-01-05,
+56,,50.0,,Nairobi,James,2025-01-01,
+726,,1200.0,2,Nakuru,Susan,,2400.0
+526,Headphones,2000.0,,Nakuru,,Not Available,
+474,Camera,50.0,2,,Brian,2025-01-01,100.0
+28,Camera,,,Kisumu,Brian,2025-01-01,
+78,,500.0,5,Nakuru,James,,2500.0
+216,Camera,1200.0,,Nairobi,,Not Available,
+386,,150.0,3,Kisumu,Mary,2025-01-05,450.0
+365,Tablet,,,Mombasa,James,,
+666,Headphones,500.0,,Nakuru,,Not Available,
+526,Phone,150.0,5,Kisumu,James,2025-01-01,750.0
+699,,100.0,4,Nairobi,Brian,Not Available,400.0
+312,Phone,150.0,5,,Susan,2025-01-01,750.0
+7,Tablet,50.0,3,,James,,150.0
+3,,50.0,4,,Mary,,200.0
+623,Camera,100.0,1,Nairobi,Kelvin,,100.0
+750,Laptop,,1,Nairobi,,,
+363,Tablet,500.0,3,,James,,1500.0
+751,Tablet,150.0,5,,James,,750.0
+508,Headphones,50.0,2,Kisumu,Mary,2025-01-05,100.0
+274,Phone,,3,,Susan,,
+506,Tablet,100.0,4,Nairobi,James,Not Available,400.0
+739,Tablet,2000.0,4,Nakuru,James,,8000.0
+15,Camera,1200.0,,Mombasa,Susan,,
+192,Camera,2000.0,1,,Mary,2025-01-01,2000.0
+631,,2000.0,4,,,2025-01-01,8000.0
+485,,50.0,3,Nakuru,,2025-01-01,150.0
+28,,100.0,4,Nakuru,James,,400.0
+714,Laptop,150.0,3,Nairobi,Susan,2025-01-05,450.0
+39,,2000.0,2,,James,Not Available,4000.0
+273,Headphones,2000.0,,Kisumu,Kelvin,Not Available,
+231,Laptop,500.0,1,,,2025-01-05,500.0
+86,,50.0,4,,Brian,2025-01-05,200.0
+474,Camera,50.0,3,Nakuru,Kelvin,Not Available,150.0
+126,,150.0,5,,James,,750.0
+537,Phone,1200.0,1,,Mary,2025-01-01,1200.0
+145,Camera,,2,Kisumu,,2025-01-01,
+525,Headphones,500.0,3,Nakuru,Brian,Not Available,1500.0
+212,Camera,50.0,,Kisumu,Kelvin,2025-01-05,
+25,Headphones,500.0,,,,,
+580,Headphones,50.0,2,,Susan,Not Available,100.0
+394,Headphones,500.0,2,Mombasa,Mary,2025-01-01,1000.0
+67,,100.0,,,Kelvin,,
+233,Headphones,2000.0,4,,Susan,2025-01-05,8000.0
+109,Headphones,50.0,4,,James,,200.0
+146,Phone,500.0,3,,Susan,Not Available,1500.0
+111,Laptop,,5,Nairobi,Kelvin,2025-01-01,
+228,Tablet,100.0,3,,Kelvin,,300.0
+111,Laptop,100.0,5,,James,,500.0
+470,Headphones,,2,Kisumu,Susan,,
+34,Phone,500.0,1,Mombasa,Susan,2025-01-01,500.0
+623,Camera,150.0,3,Kisumu,James,,450.0
+776,Phone,,3,Kisumu,Susan,,
+369,Headphones,500.0,5,Nakuru,,,2500.0
+748,Phone,,2,Nairobi,James,,
+595,,,2,Kisumu,Mary,2025-01-01,
+554,Phone,50.0,5,,Kelvin,,250.0
+425,Headphones,500.0,2,,Mary,Not Available,1000.0
+613,,150.0,,,,,
+518,,2000.0,4,Nakuru,,2025-01-05,8000.0
+692,Phone,50.0,,Nairobi,Brian,2025-01-05,
+282,Tablet,,1,Nairobi,Brian,2025-01-01,
+320,Tablet,2000.0,3,,Brian,Not Available,6000.0
+738,Phone,1200.0,1,,James,,1200.0
+443,,2000.0,3,Mombasa,Susan,2025-01-05,6000.0
+315,Camera,,4,Nakuru,,2025-01-01,
+741,Headphones,,2,,Mary,Not Available,
+377,Tablet,500.0,,Nakuru,Mary,Not Available,
+289,Camera,500.0,5,,Mary,2025-01-01,2500.0
+437,Phone,50.0,,,Mary,2025-01-01,
+662,Camera,150.0,4,Mombasa,Brian,,600.0
+277,,50.0,1,Mombasa,Mary,2025-01-01,50.0
+710,Laptop,100.0,5,Nairobi,Susan,,500.0
+582,Tablet,,2,Nakuru,Brian,,
+503,Phone,2000.0,4,Nakuru,Mary,,8000.0
+624,Headphones,1200.0,5,,James,Not Available,6000.0
+516,,,4,Nairobi,Kelvin,Not Available,
+350,,,4,,Kelvin,Not Available,
+446,Phone,50.0,2,Nakuru,Kelvin,,100.0
+350,Headphones,1200.0,3,Nairobi,Brian,,3600.0
+607,,1200.0,5,Nairobi,Mary,,6000.0
+664,,1200.0,2,,,2025-01-01,2400.0
+137,Phone,50.0,4,Nairobi,,,200.0
+759,,,2,Mombasa,,2025-01-01,
+243,Camera,50.0,3,Mombasa,Brian,,150.0
+543,Camera,500.0,,Kisumu,Susan,2025-01-01,
+40,,500.0,5,,James,2025-01-05,2500.0
+229,Camera,50.0,3,,James,Not Available,150.0
+548,Laptop,1200.0,1,Kisumu,Kelvin,Not Available,1200.0
+223,,,5,Mombasa,Kelvin,,
+6,,50.0,3,Kisumu,,2025-01-05,150.0
+322,Headphones,50.0,4,,,Not Available,200.0
+468,Camera,50.0,5,,Kelvin,,250.0
+732,,100.0,5,Nairobi,Mary,2025-01-05,500.0
+75,,500.0,2,Nakuru,Susan,Not Available,1000.0
+4,,2000.0,4,Nairobi,Susan,2025-01-01,8000.0
+646,Laptop,1200.0,1,,Susan,,1200.0
+118,Headphones,150.0,,Mombasa,Susan,2025-01-05,
+606,Phone,2000.0,3,,Kelvin,,6000.0
+504,,1200.0,2,Mombasa,James,2025-01-05,2400.0
+574,,150.0,3,Nairobi,Kelvin,,450.0
+441,Laptop,100.0,1,,Susan,2025-01-05,100.0
+194,Tablet,50.0,1,,Kelvin,,50.0
+715,Laptop,100.0,5,Mombasa,Susan,Not Available,500.0
+392,Laptop,100.0,1,,Brian,2025-01-01,100.0
+26,Headphones,2000.0,3,,,Not Available,6000.0
+435,Phone,,4,,James,2025-01-01,
+173,Tablet,2000.0,4,Mombasa,Brian,Not Available,8000.0
+300,Camera,500.0,5,,Mary,Not Available,2500.0
+645,Camera,150.0,,Kisumu,Kelvin,2025-01-05,
+326,,50.0,3,,Mary,,150.0
+410,Laptop,2000.0,3,,Kelvin,,6000.0
+118,Headphones,150.0,1,,,,150.0
+787,Headphones,1200.0,3,Nairobi,Brian,,3600.0
+724,Camera,150.0,2,Kisumu,,2025-01-01,300.0
+225,,1200.0,,Nakuru,Susan,,
+532,,2000.0,1,Nairobi,,,2000.0
+113,,500.0,2,Nakuru,,2025-01-05,1000.0
+140,Tablet,2000.0,5,Mombasa,Susan,Not Available,10000.0
+559,Phone,1200.0,4,Nakuru,Kelvin,,4800.0
+1,Tablet,150.0,5,,Susan,,750.0
+90,,150.0,4,Nakuru,Brian,,600.0
+654,,1200.0,5,,,2025-01-01,6000.0
+320,Phone,100.0,3,Nairobi,Susan,2025-01-01,300.0
+550,Camera,500.0,2,Nairobi,,2025-01-01,1000.0
+139,Phone,,4,Nakuru,Brian,,
+511,Headphones,50.0,1,Nairobi,Mary,2025-01-05,50.0
+259,,150.0,2,,Brian,,300.0
+673,Laptop,50.0,1,Nairobi,James,,50.0
+690,Laptop,,2,Nakuru,James,2025-01-05,
+10,Camera,2000.0,2,Kisumu,James,2025-01-05,4000.0
+261,Headphones,50.0,5,Kisumu,,,250.0
+650,Tablet,,4,Mombasa,Kelvin,,
+172,Headphones,1200.0,4,Nairobi,Kelvin,2025-01-05,4800.0
+13,Laptop,100.0,2,Nakuru,Kelvin,2025-01-05,200.0
+168,Laptop,150.0,3,Nairobi,,2025-01-05,450.0
+642,,,3,,Brian,,
+596,Headphones,50.0,1,,Kelvin,2025-01-05,50.0
+321,Headphones,150.0,1,Nairobi,Mary,2025-01-01,150.0
+319,Laptop,100.0,5,Nairobi,James,,500.0
+613,Tablet,1200.0,2,Kisumu,Brian,2025-01-01,2400.0
+329,Camera,2000.0,1,,James,Not Available,2000.0
+785,,150.0,1,Nakuru,Kelvin,,150.0
+777,Camera,2000.0,,Nairobi,Brian,Not Available,
+550,Headphones,,2,Kisumu,Susan,2025-01-05,
+419,Camera,100.0,5,Mombasa,Mary,2025-01-05,500.0
+606,Laptop,50.0,1,,Kelvin,,50.0
+95,Laptop,100.0,5,Kisumu,Kelvin,2025-01-05,500.0
+581,Headphones,100.0,4,Kisumu,Mary,Not Available,400.0
+318,Headphones,500.0,5,Kisumu,Mary,2025-01-05,2500.0
+236,,100.0,3,Nairobi,Susan,,300.0
+334,,100.0,3,Nairobi,Kelvin,2025-01-05,300.0
+376,,150.0,5,Mombasa,,,750.0
+459,Headphones,50.0,3,,Kelvin,2025-01-05,150.0
+137,Tablet,150.0,4,,James,Not Available,600.0
+588,Camera,150.0,2,,Brian,Not Available,300.0
+547,Headphones,,3,,Brian,2025-01-05,
+513,Phone,150.0,3,,James,Not Available,450.0
+296,,500.0,5,Mombasa,Brian,Not Available,2500.0
+320,Phone,500.0,4,,Mary,,2000.0
+572,Laptop,2000.0,2,,Brian,,4000.0
+349,,,5,,Brian,,
+779,Camera,2000.0,5,Kisumu,James,2025-01-01,10000.0
+229,Headphones,2000.0,,,Susan,,
+270,Phone,1200.0,4,Nairobi,Brian,2025-01-05,4800.0
+798,Camera,50.0,2,Nairobi,,,100.0
+291,Laptop,50.0,4,Kisumu,Brian,2025-01-05,200.0
+725,,150.0,2,Kisumu,Susan,2025-01-01,300.0
+165,Tablet,150.0,4,Kisumu,James,,600.0
+5,,1200.0,5,Nairobi,Susan,Not Available,6000.0
+379,Camera,150.0,5,,James,,750.0
+78,Camera,50.0,1,Kisumu,Mary,2025-01-05,50.0
+410,Tablet,2000.0,3,Mombasa,James,2025-01-01,6000.0
+574,Camera,100.0,,Kisumu,Mary,Not Available,
+132,Laptop,500.0,4,Nakuru,Mary,,2000.0
+601,Laptop,100.0,,Kisumu,James,Not Available,
+749,Tablet,100.0,1,Nairobi,,,100.0
+42,,50.0,3,,Kelvin,,150.0
+89,Headphones,100.0,4,Kisumu,James,Not Available,400.0
+402,Phone,1200.0,2,,Brian,Not Available,2400.0
+296,Headphones,,3,Nakuru,,Not Available,
+295,Camera,150.0,5,Mombasa,,,750.0
+616,Phone,,1,,Brian,2025-01-01,
+526,Tablet,2000.0,3,,Kelvin,,6000.0
+691,Tablet,500.0,3,Kisumu,,Not Available,1500.0
+637,,150.0,5,Nakuru,Mary,,750.0
+422,Phone,100.0,4,Nakuru,Kelvin,2025-01-01,400.0
+23,Laptop,500.0,2,,Brian,,1000.0
+575,Phone,150.0,5,Mombasa,Kelvin,,750.0
+143,Camera,1200.0,2,Nairobi,James,,2400.0
+665,Laptop,1200.0,4,Kisumu,Kelvin,Not Available,4800.0
+145,,1200.0,3,Nakuru,Mary,2025-01-01,3600.0
+225,,1200.0,2,Mombasa,James,,2400.0
+503,,100.0,1,,Susan,2025-01-01,100.0
+616,Tablet,,1,Nakuru,Brian,Not Available,
+104,Phone,150.0,5,Mombasa,Brian,2025-01-01,750.0
+39,,100.0,4,Nairobi,Kelvin,2025-01-01,400.0
+198,Headphones,1200.0,5,Nairobi,,2025-01-05,6000.0
+646,,2000.0,5,Nakuru,James,2025-01-01,10000.0
+579,Headphones,,,Nakuru,Susan,,
+391,,2000.0,5,,James,,10000.0
+179,,500.0,,Kisumu,Brian,2025-01-05,
+554,Camera,2000.0,1,Mombasa,James,,2000.0
+448,Headphones,500.0,1,Nakuru,Susan,,500.0
+500,Phone,500.0,5,Kisumu,,Not Available,2500.0
+15,Phone,1200.0,1,,Kelvin,Not Available,1200.0
+623,Headphones,500.0,4,Kisumu,Mary,2025-01-05,2000.0
+669,,50.0,,Nakuru,James,Not Available,
+289,Phone,150.0,,Nairobi,Mary,Not Available,
+478,Camera,150.0,5,Mombasa,Brian,Not Available,750.0
+231,Laptop,1200.0,1,Mombasa,Kelvin,,1200.0
+420,,50.0,2,Nairobi,Kelvin,2025-01-05,100.0
+157,Camera,2000.0,,Nakuru,James,,
+550,,100.0,5,Mombasa,,,500.0
+441,Camera,2000.0,5,Nakuru,Kelvin,,10000.0
+97,,100.0,4,,James,,400.0
+411,,500.0,3,Nakuru,James,2025-01-01,1500.0
+289,,,3,Kisumu,Mary,2025-01-01,
+254,Phone,100.0,,Nairobi,Kelvin,,
+196,Laptop,,4,Nakuru,James,,
+598,,150.0,4,,Mary,,600.0
+522,,,4,,Susan,,
+517,Phone,150.0,,Nairobi,Mary,2025-01-05,
+635,Tablet,50.0,3,Mombasa,Mary,2025-01-01,150.0
+118,Phone,50.0,4,Kisumu,James,2025-01-01,200.0
+159,,1200.0,1,Mombasa,Brian,,1200.0
+228,Phone,1200.0,5,,Brian,Not Available,6000.0
+216,Phone,500.0,5,,,Not Available,2500.0
+696,Laptop,100.0,2,Mombasa,Brian,,200.0
+15,Phone,500.0,2,Nairobi,Mary,2025-01-05,1000.0
+157,,150.0,,Mombasa,,Not Available,
+648,Laptop,500.0,,Nakuru,James,,
+261,Headphones,,5,Mombasa,Kelvin,2025-01-05,
+157,Tablet,150.0,1,Kisumu,Mary,2025-01-05,150.0
+47,Laptop,1200.0,3,Kisumu,Mary,,3600.0
